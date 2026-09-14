@@ -34,5 +34,4 @@ CloudDeploy is a simple Flask web application that I built and deployed using Do
 ## 🌐 Running the Application
 
 The application runs on port 5000.
-
-http://:5000
+http://<EC2-PUBLIC-IP>:5000
